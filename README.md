@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Jiayong Zhang @gezhangjy
+- 👋 Hi, I’m Jiayong Zhang @zhangjy-ge
 - 👀 I’m interested in CT Imaging, machine learning (computer vision, deep learning)
 
 <!---
-gezhangjy/gezhangjy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+zhangjy-ge/zhangjy-ge is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
